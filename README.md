@@ -33,6 +33,3 @@
 
 <p align="center">
  　 ͜͝　　he　╱　they
-</p>
- <p align="center">
-
